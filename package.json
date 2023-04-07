@@ -1,0 +1,17 @@
+{
+  "name": "cypress-api-plugin",
+  "version": "1.0.0",
+  "description": "Cypress API Automation Using Plugin 'cypress-plugin-api'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kajal Singh",
+  "license": "ISC",
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.0"
+  },
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
